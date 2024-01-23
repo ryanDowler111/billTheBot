@@ -1,0 +1,16 @@
+{
+  "name": "billthebot",
+  "version": "1.0.0",
+  "description": "This is a simple node ChatGPT app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "openai": "^4.25.0"
+  }
+}
